@@ -1,0 +1,76 @@
+#celeste {height: 800px;
+     width: 800px;
+     background-color: #ADD8E6;
+align-self: center;
+margin: auto;} 
+#azul {height: 650px;
+     width: 650px;
+     background-color: #21618C;
+align-self: center; position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);}
+#acua {height: 500px;
+     width: 500px;
+     background-color: #76D7C4;
+ position: absolute; 
+ margin-bottom: 75px; 
+margin-top: 75px; 
+margin-left: auto;
+margin-right:150px;}
+#verde {height: 350px;
+     width: 350px;
+     background-color: #52BE80;
+ position: absolute; 
+ margin-bottom: 75px; 
+margin-top: 75px; 
+margin-left: 150px;
+margin-right:auto;}
+#violeta {height: 200px;
+     width: 200px;
+     background-color: ##BB8FCE;
+ position: absolute; 
+ margin-bottom: 75px; 
+margin-top: 75px; 
+margin-left: 150px;
+margin-right:auto;}
+#violeta2 {height: 50px;
+     width: 50px;
+     background-color: #9B59B6;
+align-self: center; position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);}
+  #verde2 {height: 15px;
+     width: 15px;
+     background-color: #2ECC71;
+     position: absolute;
+    margin-bottom: 27px;
+    margin-top: 8px;
+    margin-left: 8px;
+    margin-right: 27px;}
+    #amarillo {height: 15px;
+     width: 15px;
+     background-color: #F1C40F;
+     position: absolute;
+    margin-bottom: 27px;
+    margin-top: 8px;
+    margin-left: 27px;
+    margin-right: 8px;}
+     #naranja {height: 15px;
+     width: 15px;
+     background-color: #F39C12;
+     position: absolute;
+    margin-bottom: 8px;
+    margin-top: 27px;
+    margin-left: 27px;
+    margin-right: 8px;}
+#rojo {height: 15px;
+     width: 15px;
+     background-color: #E74C3C;
+     position: absolute;
+    margin-bottom: 27px;
+    margin-top: 8px;
+    margin-left: 8px;
+    margin-right: 27px;}
+
